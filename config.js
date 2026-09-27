@@ -1,11 +1,11 @@
 window.MOM_CFG = {
   NAME: "MOM",
   TICKER: "MOM",
-  CA: "",
+  CA: "HgcmfJ2BhGodXJ1GsoCvozM7A6kSkquj6dGWFeQ5pump",
   CHAIN: "solana",
   PAD: "pumpfun",
   PAIR: "",
-  X: "",
+  X: "https://x.com/launchformom",
   BUY: "",
   CHART: "",
   MOM_SHARE: 90,   // % of each mom coin's fees that go to her
